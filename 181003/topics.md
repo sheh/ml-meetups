@@ -17,8 +17,8 @@
 
 	* 1080 Ti performs at 90% speed compared to the cloud Nvidia V100 GPU
 	* 1080 Ti out performs Nvidia K80 4x
-	* 1 GPU 3 years cost save is 4x ... 10x
-	* 4 GPU 3 years cost save is 21x ... 9x
+	* 1 GPU cost save is 4x ... 10x
+	* 4 GPU cost save is 21x ... 9x
 	* Nvidia’s Personal AI Supercomputer uses 4 GPUs (Tesla V100), a 20 core CPU, and 128GB ram
 	* Hetzner EX51-SSD-GPU - 115$, 24 months
 	* минусы - шум, электричество, другие риски
